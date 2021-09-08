@@ -1,0 +1,9 @@
+# exmaple netlify.toml
+# Of course i can move all the items in a 'dist' folder
+
+[build]
+# command = 'yarn run build'
+# functions = "functions"
+# . means deploying root folder, i will no longer be asked where my published path is.,
+
+publish = "dist"
