@@ -9,5 +9,4 @@
 publish = "dist"
 
 #Markup Language
-https://www.netlify.com/img/deploy/button.svg?repository=https://github.com/AmirDevops/Netlify-1
-
+https://app.netlify.com/start/deploy?repository=https://github.com/AmirDevops/Netlify-1=2.57672746.1002850738.1631105455-1971200583.1631105455
