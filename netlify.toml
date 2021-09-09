@@ -7,3 +7,7 @@
 # . means deploying root folder, i will no longer be asked where my published path is.,
 
 publish = "dist"
+
+#Markup Language
+https://app.netlify.com/start/deploy?repository=https://github.com/AmirDevops/Netlify-1
+
