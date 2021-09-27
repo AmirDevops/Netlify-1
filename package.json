@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "yarn": "^1.22.11"
+  },
+  "name": "netlify-drop-demo-site-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AmirDevops/Netlify-1.git",
+  "author": "AmirDevops <75837080+AmirDevops@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "prebuild": "echo $My_Secret",
+    "build": "parcel build src/index.html"
+  }
+}
